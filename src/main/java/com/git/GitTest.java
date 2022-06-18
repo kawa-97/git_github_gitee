@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("融合成功");
         System.out.println("pull&push");
         System.out.println("push!push!");
+        System.out.println("new push!");
     }
 }
