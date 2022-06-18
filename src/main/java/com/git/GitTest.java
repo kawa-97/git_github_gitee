@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("git---idea");
         System.out.println("添加新分支");
         System.out.println("融合成功");
+        System.out.println("pull&push");
     }
 }
